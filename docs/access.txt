@@ -1,0 +1,182 @@
+
+SELECT coupon_id as id, 1 as type_rental_id, 	coupon_status as status_coupon_id, 	coupon_type as 	type_coupon_id, 	coupon_number as number, coupon_amount as amount, 	coupon_date as 	date_exp FROM `tbl_coupons` WHERE `coupon_for`='car'
+������ �����,
+
+ 
+
+- ���� ��� ������� ���� http://50.60.128.138:8100/browse/CARGOGO-7 � ���� �������� ��� http://gogo.softaddicts.com/ (��� ������� �������� ��������� ������� �� ����������, �� ��������� ��������)... ��� ��� ��� ��������� ��� �� ����� ����� https://gogoflorida.us � ��� �������
+
+- ��� ��������� �� ������ � ��� � ����� ��������� ������� - http://50.60.128.138:8100/browse/CARGOGO-8
+
+- ��� ���� ��������� http://50.60.128.138:8100/secure/attachment/13673/gogoflorida.zip  ������, ����� �� ��������� ���� ��������. http://50.60.128.138:8100/browse/CARGOGO-9 ���������� �� https://www.carrental8.com/
+
+ 
+
+��� ����� ������, ��� �� ����������� � ����� ��. ������ �������� as much is possible � � �������� ������ ���� ���� �� �������������� ���� ����� ����� ��� �� ����� ���������.
+
+ 
+
+��� ��� ������� �� ��������
+
+ 
+
+1. ��� ����� ������� ����
+
+ 
+
+http://gogoflorida.us/
+
+ 
+
+Cpanel - http://gogoflorida.us/cpanel
+
+ 
+
+FTP - gogoflorida.us
+
+ 
+
+login - gogoflo
+
+ 
+
+password - lovejesus
+
+ 
+
+2. ������� �������� �����
+
+ 
+
+https://gogoflorida.us/login.php
+
+ 
+
+login - vic54
+
+ 
+
+password - glorytogod
+
+ 
+
+ 
+
+3. ���� ��� ��������� ����� ������
+
+ 
+
+http://gogo.softaddicts.com/
+
+ 
+
+Cpanel - http://gogo.softaddicts.com/cpanel
+
+ 
+
+FTP - gogo.softaddicts.com
+
+ 
+
+login - gogosoftaddicts
+
+ 
+
+password - m+#NbNko2W82
+
+ 
+
+ 
+
+��� � ���������� OLD ���������� ��� ����� ������������ �����
+
+ 
+
+4. ��� ����� ������������ �����, ��� � ������ ����� ������ ��� �������� � ��������� ��������� ������ �  ������ ����������-������� ��� hertz
+
+ 
+
+http://gogodev.softaddicts.com/
+
+ 
+
+Cpanel - http://gogodev.softaddicts.com/cpanel
+
+ 
+
+FTP - gogodev.softaddicts.com
+
+ 
+
+login - gogodevsoftaddic
+
+ 
+
+password - HbDbK%FCOSA_
+
+ 
+
+ 
+
+���� ��� ���������� - �� ����� ������������ � ��� ������ �������.
+
+ 
+
+5.
+
+1. http://gogo.softaddicts.com/
+
+��������� �� ����� ������ "Reserve now" � ���� ������� - ��������� �� 2. http://gogo.softaddicts.com/calendar.php
+
+��� ���� ��������� �� ���� ��� ����
+
+��������� �� ������ Search - ��������� �� 3. http://gogo.softaddicts.com/filter.php
+
+��� ����� �������� ����������� ���� � ������ NEXT - ��������� �� 4. http://gogo.softaddicts.com/catalog.php
+
+��������� �� ����� ������ - ��������� �� 5. http://gogo.softaddicts.com/catalogfilters.php
+
+��������� �� OK - ��������� ��
+
+6.http://gogo.softaddicts.com/loginform.php
+
+��� ����� ��������� � ������ �� ����� - �������� � ����� ��� ������ �� ���� Create an Account - ��������� �� 7. http://gogo.softaddicts.com/registerform.php
+
+��� ����� ��������� � ������ ������ - �������� � ����� 8. http://gogo.softaddicts.com/shoppingcart_step1.php
+
+��� ����� ��������� � ������ ������ - ��������� �� 9. http://gogo.softaddicts.com/shoppingcart_step2.php
+
+��� ����� ��������� � ������ ������ - ��������� �� 10. http://gogo.softaddicts.com/shoppingcart_step3.php
+
+��� ����� ��������� � ������ ������ - ��������� �� 11. http://gogo.softaddicts.com/shoppingcart_step4.php
+
+��� ����� ��������� � ������ ������ - ��������� �� �������� ��������
+
+ 
+
+12. ��� ���� �������� ������
+
+http://gogo.softaddicts.com/admin.php
+
+ 
+
+ 
+
+Best Regards,
+
+Boris S.
+
+
+Merchant ID: 79wp2x354qm96n92
+Public Key: mr7wz5g25xz5h7vm
+Private Key: 25cfe866f7672e89c7c0d297862c4c53
+
+
+cpanel
+gogoflorida.com:2083/
+user: g0g0123
+pass: qazwsx12QQ@
+
+https://account.godaddy.com
+customer number - 5051064
+Password - heinlein
